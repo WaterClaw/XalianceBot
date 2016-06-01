@@ -93,7 +93,7 @@
       motd: "Temporary Message of the Day",
       filterChat: true,
       etaRestriction: false,
-      welcome: true,
+      welcome: false,
       opLink: null,
       rulesLink: null,
       themeLink: null,
