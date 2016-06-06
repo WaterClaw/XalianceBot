@@ -1,1 +1,13 @@
-
+{
+    "1":{
+        "mid": "1:JUNKsongID1"
+    },
+    "2":{
+        "title": "This is a JUNK song",
+        "author": "The JUNK band",
+        "mid": "1:JUNKsongID2"
+    },
+    "3":{
+        "mid": "1:JUNKsongID3"
+    }
+}
